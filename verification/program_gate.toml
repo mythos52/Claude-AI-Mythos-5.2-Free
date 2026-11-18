@@ -1,0 +1,3 @@
+model = "claude-mythos-5-2"
+programs = ["Cyber Verification", "Life Sciences Verification"]
+data_retention_days = 30
